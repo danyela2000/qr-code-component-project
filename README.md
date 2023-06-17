@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/danyela2000/qr-code-component-project/tree/main)
-- Live Site URL: [Add live site URL here](https://gorgeous-florentine-3f21c8.netlify.app)
+- Solution URL: [https://github.com/danyela2000/qr-code-component-project/tree/main](https://github.com/danyela2000/qr-code-component-project/tree/main)
+- Live Site URL: [https://gorgeous-florentine-3f21c8.netlify.app](https://gorgeous-florentine-3f21c8.netlify.app)
 
 ## My process
 
