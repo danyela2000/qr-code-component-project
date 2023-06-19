@@ -35,10 +35,6 @@ body {
     box-shadow: 0.3125em 0.3125em 0.625em hsl(210, 6%, 82%);
 }
 
-.img-container {
-    width: 13.75rem;
-    height: 13.75rem;
-}
 
 img {
     display: block;
